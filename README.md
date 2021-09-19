@@ -51,6 +51,8 @@ entities
 - list
 - product
 
+## context map
+https://whimsical.com/context-map-C1EioNnjkmMdZnE1hJ4RDF
 
 actions
 - createAccount
