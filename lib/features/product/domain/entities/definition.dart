@@ -1,0 +1,1 @@
+// Entidade específica do domínio

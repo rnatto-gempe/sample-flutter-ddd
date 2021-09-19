@@ -1,0 +1,1 @@
+// concentra a definição de tipos de dados especificos da aplicação utilizados para validacao

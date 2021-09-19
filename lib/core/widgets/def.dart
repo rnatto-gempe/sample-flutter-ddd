@@ -1,0 +1,1 @@
+// widgets globais da aplicacao

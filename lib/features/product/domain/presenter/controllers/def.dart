@@ -1,0 +1,1 @@
+// regra de negócio atribuida a uma página
